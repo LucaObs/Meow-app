@@ -1,0 +1,10 @@
+{
+  "name": "MeowApp - Calorie dei Pasti",
+  "short_name": "MeowApp",
+  "description": "Analizza le calorie dei tuoi pasti con Claude AI",
+  "start_url": "/Meow-app/",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#ff9500",
+  "icons": []
+}
